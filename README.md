@@ -12,7 +12,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src="(https://github.com/ascarydan/Andrieli-Cheva/assets/157328024/dc3ba2eb-014f-4aad-bcd1-a82cbbbb8237)">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
