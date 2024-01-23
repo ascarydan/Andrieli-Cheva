@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="![imagem](https://github.com/ascarydan/Andrieli-Cheva/assets/157328024/4b7230e8-4e58-48ec-8264-9e7c8443587f)" width="100%">
 </p>
 
 ## 🚀 Tecnologias
