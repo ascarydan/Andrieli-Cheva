@@ -52,4 +52,3 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 <<<<<<< HEAD
 =======
 
->>>>>>> 5fd8ff6590ab95da7cf63f84feaad32ece000059
